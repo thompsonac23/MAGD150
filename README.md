@@ -1,4 +1,7 @@
 # MAGD150
+
+Below are descriptions of several labs I have created from September 13th, 2017 to November 5th, 2017.
+
 [Lab01](https://github.com/thompsonac23/MAGD150/blob/master/Lab01.pde)\
 -Using a multitude of points and polygons, I created a starry, city landscape in black and white. 
 
