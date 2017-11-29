@@ -1,4 +1,4 @@
-# MAGD150
+# Amanda Thompson's MAGD150 Lab Creations
 
 Below are descriptions of several labs I have created from September 13th, 2017 to November 5th, 2017.
 
