@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# MAGD150
 
-You can use the [editor on GitHub](https://github.com/thompsonac23/MAGD150/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Below are descriptions of several labs I have created from September 13th, 2017 to November 5th, 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Lab01](https://github.com/thompsonac23/MAGD150/blob/master/Lab01.pde)\
+-Using a multitude of points and polygons, I created a starry, city landscape in black and white. 
 
-### Markdown
+[Lab02](https://github.com/thompsonac23/MAGD150/blob/master/Lab02.pde)\
+-Using frequent ellipses and bezier curves, I created a galactic themed scape with a few textured planets and stars in the background.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Lab03](https://github.com/thompsonac23/MAGD150/blob/master/Lab03.pde)\
+-In this assignment I created a desktop theme-esque interaction with mostly ellipses. Every few seconds some of the ellipses will blink different colors, and circles will spawn as the mouse moves across the screen.
 
-```markdown
-Syntax highlighted code block
+[Lab04](https://github.com/thompsonac23/MAGD150/blob/master/Lab04.pde)\
+-This project is entirely about everyone's favorite, pizza. All variables are ellipses again. A simple pizza will follow the mouse's location, and when the mouse is clicked another will pop up in the right corner of the background. Along with a mouseclick, if a key is pressed on the keyboard, yet another, different, pizza will appear in the lower left.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thompsonac23/MAGD150/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Lab08](https://github.com/thompsonac23/MAGD150/blob/master/Lab08.pde)\
+-In this last project, I created a movie poster inspired piece, space themed, of course. Using a purple color scheme, I made a spacial landscape with a few planets and textured ground. Utilizing and loading specific fonts, I animated part of the text to scroll across the screen at the top, while the other text rests static at the bottom. 
